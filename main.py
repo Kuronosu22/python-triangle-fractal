@@ -38,10 +38,10 @@ def Fractal():
         forward(distance_vertex / 2)
         dot(3, "blue")
 
-
+# Defining the verticies on the canva
 vertices = [(0,200),(-250,-200),(250,-200)]
 
-# Specifying the brush size, hideness and speed
+# Defining the brush size, hideness and speed
 pensize(6)
 hideturtle()
 speed(0)

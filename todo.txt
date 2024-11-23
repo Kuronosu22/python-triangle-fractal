@@ -1,0 +1,6 @@
+Create a tringle ✅
+Define the starting point by random ✅
+Repeat
+    Choose a vertice by random ✅
+    Draw a line between the point and vertice ✅
+    Make a new point in the middle ✅
